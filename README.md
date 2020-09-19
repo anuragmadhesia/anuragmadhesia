@@ -1,5 +1,8 @@
 ### Hola, I'm Anurag Madhesia <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+### Connect with me :
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/anurag_madhesia)
+
 ![](https://komarev.com/ghpvc/?username=anuragmadhesia-github-username&color=green)
 
 - 🔭 I’m currently working on my Skills
