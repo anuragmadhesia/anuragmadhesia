@@ -1,11 +1,24 @@
 ### Hola, I'm Anurag Madhesia <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### Connect with me :
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/anurag_madhesia)
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](#)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](#)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/anurag_madhesia)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/anuragmadhesia)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/anuragmadhesia)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCZ_3HXyb1vlvyozdm-b7Yiw)
 
-![](https://komarev.com/ghpvc/?username=anuragmadhesia-github-username&color=green)
+### Languages and Tools :
+[<img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />]()
+[<img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
+[<img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
+[<img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
+[<img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]()
 
-- 🔭 I’m currently working on my Skills
+
+![](https://komarev.com/ghpvc/?username=anuragmadhesia-github-username&color=green)<br>
+
+- 🔭 I’m currently working on my Skills&nbsp;&nbsp;<img height="26" width="26" src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"/>
 - 🌱 I’m currently learning more about Python
 - 👯 I’m looking to collaborate on  [YouTube](https://www.youtube.com/channel/UCZ_3HXyb1vlvyozdm-b7Yiw)
 - 🤔 I’m looking for help with Kivy Framework
