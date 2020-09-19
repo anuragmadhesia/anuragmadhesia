@@ -9,4 +9,4 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love watching movies and web series.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuragmadhesia)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuragmadhesia&show_icons=true&theme=radical)
