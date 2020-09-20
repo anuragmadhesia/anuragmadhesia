@@ -1,4 +1,4 @@
-### Hola, I'm Anurag Madhesia <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello, I'm Anurag Madhesia <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### Connect with me :
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](#)&nbsp;&nbsp;&nbsp;&nbsp;
