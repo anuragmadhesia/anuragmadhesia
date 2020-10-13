@@ -29,7 +29,7 @@
 - 💬 You can contact me through [Gmail - madhesiaanurag99@gmail.com](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=madhesiaanurag99@gmail.com)
 - 📫 How to reach me: [Instagram](https://www.instagram.com/anurag_madhesia)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love watching movies and web series.&nbsp;&nbsp;<img height="26" width="26" src="https://camo.githubusercontent.com/7bf64c0124cdd39d5abc7bc192debd43dd4aae6c/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330"/>
+- ⚡ Fun fact: I love listening songs.&nbsp;&nbsp;<img height="26" width="26" src="https://camo.githubusercontent.com/7bf64c0124cdd39d5abc7bc192debd43dd4aae6c/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330"/>
 
 
 [![Top Langs](https://github-readme-stats.anuragmadhesia.vercel.app/api/top-langs/?username=anuragmadhesia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
