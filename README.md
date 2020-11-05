@@ -1,24 +1,28 @@
 ### Hello, I'm Anurag Madhesia <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### Connect with me :
+[<img height="32" width="32" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://anuragmadhesia.com/)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](#)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](#)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/anurag_madhesia)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/anuragmadhesia)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/anuragmadhesia)&nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCZ_3HXyb1vlvyozdm-b7Yiw)
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/c/anuragmadhesia)
 
-### Languages and Tools :
-[<img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />](#)
-[<img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />](#)
-[<img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](#)
-[<img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](#)
-[<img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />](#)
-[<img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](#)
-[<img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](#)
-[<img height="39" width="39" src="https://camo.githubusercontent.com/912b3c635b0c0c198c68114f038ecc28a17728e7/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2d776f72646d61726b2e737667" />](#)
-[<img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](#)
-
+<p><strong>Languages and Frameworks</strong></p>
+<table>
+<thead>
+<tr>
+<th><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg"><img alt="Python" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" style="max-width:100%;"></a></th>
+<th><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg"><img alt="HTML" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg" style="max-width:100%;"></a></th>
+<th><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css3.svg"><img alt="CSS" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css3.svg" style="max-width:100%;"></a></th>
+<th><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg"><img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg" style="max-width:100%;"></a></th>
+<th><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bootstrap.svg"><img alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bootstrap.svg" style="max-width:100%;"></a></th>
+<th><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bulma.svg"><img alt="Bulma" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cplusplus.svg" style="max-width:100%;"></a></th>
+<th><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailwindcss.svg"><img alt="tailwindcss" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/django.svg" style="max-width:100%;"></a></th>
+</tr>
+</thead>
+</table>
 
 ![](https://komarev.com/ghpvc/?username=anuragmadhesia-github-username&color=green)<br>
 
