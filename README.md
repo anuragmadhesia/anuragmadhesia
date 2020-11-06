@@ -7,7 +7,7 @@
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/anuragmadhesia)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/c/anuragmadhesia)
 
-<p><strong>Languages and Frameworks</strong></p>
+<p><strong>Languages and Tools</strong></p>
 <table>
 <thead>
 <tr>
