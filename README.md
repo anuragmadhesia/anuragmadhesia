@@ -2,7 +2,7 @@
 
 ### Connect with me :
 [<img height="32" width="32" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://anuragmadhesia.com/)&nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facbook.svg" />](https://www.facebook.com/Anurag.Madhesia.99)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/Anurag.Madhesia.99)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/anurag_madhesia)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/anuragmadhesia)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/c/anuragmadhesia)
