@@ -11,13 +11,13 @@
 <table>
 <thead>
 <tr>
-<th><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg"><img alt="Python" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" style="max-width:100%;"></a></th>
-<th><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg"><img alt="HTML" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg" style="max-width:100%;"></a></th>
-<th><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css3.svg"><img alt="CSS" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css3.svg" style="max-width:100%;"></a></th>
-<th><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg"><img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg" style="max-width:100%;"></a></th>
-<th><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bootstrap.svg"><img alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bootstrap.svg" style="max-width:100%;"></a></th>
-<th><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bulma.svg"><img alt="Bulma" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cplusplus.svg" style="max-width:100%;"></a></th>
-<th><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailwindcss.svg"><img alt="tailwindcss" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/django.svg" style="max-width:100%;"></a></th>
+<th><a rel="noopener noreferrer" href="#"><img alt="Python" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" style="max-width:100%;"></a></th>
+<th><a rel="noopener noreferrer" href="#"><img alt="HTML" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg" style="max-width:100%;"></a></th>
+<th><a rel="noopener noreferrer" href="#"><img alt="CSS" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css3.svg" style="max-width:100%;"></a></th>
+<th><a rel="noopener noreferrer" href="#"><img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg" style="max-width:100%;"></a></th>
+<th><a rel="noopener noreferrer" href="#"><img alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bootstrap.svg" style="max-width:100%;"></a></th>
+<th><a rel="noopener noreferrer" href="#"><img width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cplusplus.svg" style="max-width:100%;"></a></th>
+<th><a rel="noopener noreferrer" #"><img width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/php.svg" style="max-width:100%;"></a></th>
 </tr>
 </thead>
 </table>
