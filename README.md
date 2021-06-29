@@ -1,11 +1,14 @@
 ### Hello, I'm Anurag Madhesia <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### Connect with me :
-[<img height="32" width="32" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://anuragmadhesia.com/)&nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/Anurag.Madhesia.99)&nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/anurag_madhesia)&nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/anuragmadhesia)&nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/c/anuragmadhesia)
+<p>
+  <a href="https://anuragmadhesia.com/"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>
+  <a href="https://www.facebook.com/Anurag.Madhesia.99"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
+  <a href="https://www.linkedin.com/in/anuragmadhesia/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://www.instagram.com/anurag_madhesia"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://www.youtube.com/c/anuragmadhesia"><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a>
+</p>
 
 <p><strong>Languages and Tools</strong></p>
 <table>
