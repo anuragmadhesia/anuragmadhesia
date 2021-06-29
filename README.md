@@ -10,20 +10,34 @@
   <a href="https://www.youtube.com/c/anuragmadhesia"><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a>
 </p>
 
-<p><strong>Languages and Tools</strong></p>
-<table>
-<thead>
-<tr>
-<th><a rel="noopener noreferrer" href="#"><img alt="Python" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" style="max-width:100%;"></a></th>
-<th><a rel="noopener noreferrer" href="#"><img alt="HTML" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg" style="max-width:100%;"></a></th>
-<th><a rel="noopener noreferrer" href="#"><img alt="CSS" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css3.svg" style="max-width:100%;"></a></th>
-<th><a rel="noopener noreferrer" href="#"><img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg" style="max-width:100%;"></a></th>
-<th><a rel="noopener noreferrer" href="#"><img alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bootstrap.svg" style="max-width:100%;"></a></th>
-<th><a rel="noopener noreferrer" href="#"><img width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cplusplus.svg" style="max-width:100%;"></a></th>
-<th><a rel="noopener noreferrer" #"><img width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/php.svg" style="max-width:100%;"></a></th>
-</tr>
-</thead>
-</table>
+## 🛠  Technologies and tools
+
+<a name="learning-now"></a>
+
+[<img src="https://img.shields.io/badge/C++-282C34?logo=cplusplus&logoColor=3178C6" alt="C++" title="cpp" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=green" alt="python" title="python" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=cplusplus&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=3178C6" alt="" title="" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=3178C6" alt="php" title="php" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=3178C6" alt="mysql" title="mysql" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Asp .NET-282C34?logo=dotnet&logoColor=green" alt="python" title="python" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
+&nbsp;
+
+<a name="learning-next"></a>
 
 ![](https://komarev.com/ghpvc/?username=anuragmadhesia-github-username&color=green)<br>
 
