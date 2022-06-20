@@ -1,4 +1,4 @@
-### Hello, I'm Anurag Madhesia <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello, I'm Anurag Madhesia <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">
 
 ![](https://komarev.com/ghpvc/?username=anuragmadhesia-github-username&color=green)<br>
 
