@@ -47,9 +47,8 @@
 <br>
 
 - 🔭 I’m currently working on my Skills&nbsp;&nbsp;<img height="26" width="26" src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"/>
-- 🌱 I’m currently learning more about Python
+- 🌱 I’m currently learning about Node js 
 - 👯 I’m looking to collaborate on  [YouTube](https://www.youtube.com/channel/UCZ_3HXyb1vlvyozdm-b7Yiw)
-- 🤔 I’m looking for help with Kivy Framework
 - 💬 You can contact me through [Gmail](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=madhesiaanurag99@gmail.com)
 - 📫 How to reach me: [Instagram](https://www.instagram.com/anurag_madhesia)
 - 😄 Pronouns: He/His
