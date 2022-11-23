@@ -5,7 +5,7 @@
 ## Connect with me :
 <a name="learning-now"></a>
 <p>
-  <a href="https://anuragmadhesia.com/"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood" width="70"/></a>
+  <a href="https://anuragmadhesia.github.io/MyWebsite"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood" width="70"/></a>
   <a href="https://www.facebook.com/Anurag.Madhesia.99"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook" width="70"/></a>
   <a href="https://www.linkedin.com/in/anuragmadhesia/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="70"/></a>
   <a href="https://www.instagram.com/anurag_madhesia"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" width="70"/></a>
